@@ -84,14 +84,13 @@ table {
 body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4c4c4c+0,474747+19,2c2c2c+46,111111+73,000000+100 */
+    background: rgb(76,76,76); /* Old browsers */
+    background: -moz-radial-gradient(center, ellipse cover,  rgb(76,76,76) 0%, rgb(71,71,71) 19%, rgb(44,44,44) 46%, rgb(17,17,17) 73%, rgb(0,0,0) 100%); /* FF3.6-15 */
+    background: -webkit-radial-gradient(center, ellipse cover,  rgb(76,76,76) 0%,rgb(71,71,71) 19%,rgb(44,44,44) 46%,rgb(17,17,17) 73%,rgb(0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: radial-gradient(ellipse at center,  rgb(76,76,76) 0%,rgb(71,71,71) 19%,rgb(44,44,44) 46%,rgb(17,17,17) 73%,rgb(0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#000000',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
-    background: rgb(215, 215, 215);
-    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(190, 190, 190)));
-    background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:     -ms-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:      -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
-    background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
 }
 
 /*
