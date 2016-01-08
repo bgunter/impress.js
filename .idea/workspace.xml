@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f345e8fe-1e64-456e-a4bd-525e1a2fc584" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/impress-demo.css" afterPath="$PROJECT_DIR$/css/impress-demo.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="impress.js.iws" />
@@ -28,9 +27,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6415094">
-              <caret line="220" column="61" selection-start-line="220" selection-start-column="61" selection-end-line="220" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.3207547">
+              <caret line="204" column="69" selection-start-line="204" selection-start-column="69" selection-end-line="204" selection-end-column="69" />
               <folding>
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -191,9 +191,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6415094">
-          <caret line="220" column="61" selection-start-line="220" selection-start-column="61" selection-end-line="220" selection-end-column="61" />
+        <state vertical-scroll-proportion="0.3207547">
+          <caret line="204" column="69" selection-start-line="204" selection-start-column="69" selection-end-line="204" selection-end-column="69" />
           <folding>
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
