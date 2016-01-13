@@ -268,11 +268,20 @@ a:focus {
     letter-spacing: -1px;
 }
 .slide2 .content{
-    line-height: 50px;
+    line-height: 30px;
     display: block;
-    font-size: 26px;
+    font-size: 24px;
 }
 
+.slide2 .title{
+     line-height: 50px;
+     display: block;
+     font-size: 38px;
+ }
+.slide2 .first{
+
+    font-size: 38px;
+}
 .slide2 q {
     display: block;
     font-size: 52px;
@@ -284,6 +293,102 @@ a:focus {
 .slide2 q strong {
     white-space: nowrap;
 }
+
+
+
+.slide3 {
+    display: block;
+
+    width: 900px;
+    height: 1000px;
+    padding: 40px;
+    text-align: justify;
+
+
+    color: rgb(255, 255, 255);
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 30px;
+    line-height: 36px;
+    letter-spacing: -1px;
+}
+.slide3 .content{
+    line-height: 50px;
+    display: block;
+    font-size: 32px;
+}
+
+.slide3 .look-at-chart{
+    display: block;
+    font-size: 54px;
+    letter-spacing: 7px;
+}
+
+
+.slide3 .second{
+    letter-spacing: 85px;
+    font-size: 100px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.slide3 q {
+    display: block;
+    font-size: 52px;
+    line-height: 72px;
+
+    margin-top: 50px;
+}
+
+.slide3 q strong {
+    white-space: nowrap;
+}
+
+
+.slide4 {
+    display: block;
+
+    width: 1000px;
+    height: 1000px;
+    padding: 40px;
+
+
+    color: rgb(255, 255, 255);
+    text-shadow: 0 2px 2px rgba(0, 0, 0, .1);
+
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: -1px;
+}
+.slide4 .content{
+
+    line-height: 40px;
+    display: block;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+.slide4 .title{
+    margin-top: 40px;
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    line-height: 50px;
+}
+.slide4 q {
+    display: block;
+    font-size: 52px;
+
+
+}
+
+.slide3 q strong {
+    white-space: nowrap;
+}
+
+
+
 
 
 /*
